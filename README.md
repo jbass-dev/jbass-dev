@@ -68,9 +68,9 @@ A full-stack CRM with customer/contact management, role-based permissions, and A
 ---
 
 ### 📌 [OfferBound](https://offerbound.vercel.app)
-A full-stack job application tracker designed and built from scratch — Google Auth, live stats dashboard, and follow-up reminders.
+A job application tracker with a full pipeline (Saved → Applied → Interviewing → Offer), live dashboard stats, and smart follow-up reminders — plus a built-in ATS resume scanner that scores your resume against any job description, with AI-powered rewrites and bullet suggestions.
 
-**Tech:** React · Firebase · Firestore · Google Auth
+**Tech:** React · Vite · Firebase · Firestore · Google Auth · Groq AI
 
 ---
 
@@ -112,7 +112,7 @@ A modern AI chat clone with clean UI and responsive design.
 ## 📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/john-b-1182183ba/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/babyboy198331-coder)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jbass-dev)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://eportfolio-master-omega.vercel.app)
 
 ---
