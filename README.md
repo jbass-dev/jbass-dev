@@ -102,10 +102,12 @@ A deployed React marketplace with routing, Firebase integration, and dynamic NFT
 
 ---
 
-### 🤖 [AI Chat Interface](https://deep-seek-clone-wine.vercel.app)
-A modern AI chat clone with clean UI and responsive design.
+### 🤖 Nimbus — AI Chat Interface(https://deep-seek-clone-wine.vercel.app)
+A multi-model AI chat application with live token streaming, built with Next.js (App Router) and the OpenRouter API.
 
-**Tech:** Next.js · TypeScript · Tailwind CSS
+Live demo: https://deep-seek-clone-wine.vercel.app
+
+**Tech:**Next.js · React · Tailwind CSS · OpenRouter API (streaming)
 
 ---
 
