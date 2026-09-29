@@ -128,8 +128,7 @@ A deployed React marketplace featuring client-side routing, Firebase integration
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/john-bass-1182183ba/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/jbass-dev)
-(https://johnbass.dev)
-
+[![Portfolio](https://img.shields.io/badge/Portfolio-johnbass.dev-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://johnbass.dev)
 ---
 
 > Building, deploying, and continuously improving real-world software.
