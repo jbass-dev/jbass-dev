@@ -45,4 +45,4 @@ A streaming chat app that lets you switch models mid-conversation, with history,
 **Frontend:** React · Next.js · Vite · Tailwind CSS · Redux Toolkit · Accessibility  
 **Backend & Data:** Node.js · Express · REST APIs · PostgreSQL · Prisma · Firebase · Firestore  
 **AI:** Groq · OpenRouter · LLM APIs · SSE streaming  
-**Testing & Deploy:** Vitest · Jest · React Testing Library · GitHub Actions · Docker · Vercel · Railway · Cloudflare R2
+**Testing & Deploy:** Vitest · Jest · React Testing Library · Playwright · GitHub Actions · Docker · Vercel · Railway · Cloudflare R2
